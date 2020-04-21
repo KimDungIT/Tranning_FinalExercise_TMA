@@ -1,0 +1,12 @@
+/home/nktoan/ndung/device-mgmt/device-mgmt-api/src/main/java/com/tma/apa/training/device/mgmt/vo/DeviceHolderVO.java
+/home/nktoan/ndung/device-mgmt/device-mgmt-api/src/main/java/com/tma/apa/training/device/mgmt/dao/DeviceDAO.java
+/home/nktoan/ndung/device-mgmt/device-mgmt-api/src/main/java/com/tma/apa/training/device/mgmt/vo/DeviceVO.java
+/home/nktoan/ndung/device-mgmt/device-mgmt-api/src/main/java/com/tma/apa/training/device/mgmt/service/DeviceService.java
+/home/nktoan/ndung/device-mgmt/device-mgmt-api/src/main/java/com/tma/apa/training/device/mgmt/entity/Device.java
+/home/nktoan/ndung/device-mgmt/device-mgmt-api/src/main/java/com/tma/apa/training/device/mgmt/entity/ConnectionMechanism.java
+/home/nktoan/ndung/device-mgmt/device-mgmt-api/src/main/java/com/tma/apa/training/device/mgmt/dao/DeviceHolderDAO.java
+/home/nktoan/ndung/device-mgmt/device-mgmt-api/src/main/java/com/tma/apa/training/device/mgmt/exception/DeviceException.java
+/home/nktoan/ndung/device-mgmt/device-mgmt-api/src/main/java/com/tma/apa/training/device/mgmt/entity/DeviceHolder.java
+/home/nktoan/ndung/device-mgmt/device-mgmt-api/src/main/java/com/tma/apa/training/device/mgmt/exception/DeviceHolderException.java
+/home/nktoan/ndung/device-mgmt/device-mgmt-api/src/main/java/com/tma/apa/training/device/mgmt/service/DeviceHolderService.java
+/home/nktoan/ndung/device-mgmt/device-mgmt-api/src/main/java/com/tma/apa/training/device/mgmt/exception/DeviceMgtException.java
